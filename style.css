@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    background-color: paleturquoise;
+    color: black;
+
+
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+p {
+    background-color:white;
+}
+
+img
+{
+    width: 560px;
+    height: 400px;
+}
